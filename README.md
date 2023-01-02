@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Piyushsinganjude)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Piyushsinganjude)](https://git.io/streak-stats)
 [![Piyush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Piyushsinganjude&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
