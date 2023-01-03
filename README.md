@@ -16,11 +16,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Piyushsinganjude)](https://git.io/streak-stats)
 [![Piyush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Piyushsinganjude&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-### Connect with me:
-
-
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sachinworld1234@gmail.com
-[linkedin]: https://www.linkedin.com/in/sachinbagale/
-[instagram]: https://medium.com/@sachinworld1234
-[twitter]: https://twitter.com/Sachin_bagale27/
 
