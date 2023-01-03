@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Piyushsinganjude)](https://git.io/streak-stats)
 [![Piyush's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Piyushsinganjude&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Contact me with
+
+<p align="left">
+<a href="https://github.com/Piyushsinganjude" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+  <a href="https://www.linkedin.com/in/piyush-singanjude-532797209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://twitter.com/Piyushsingnjud7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
