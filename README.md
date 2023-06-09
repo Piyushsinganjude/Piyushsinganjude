@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## Contact me with
 
 <p align="left">
-<a href="https://github.com/Piyushsinganjude" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/piyush-singanjude-532797209/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/Piyushsingnjud7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
  <a href="https://www.instagram.com/piyush._.singanjude/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p> 
